@@ -19,3 +19,12 @@ if( mayor === edad1){
     document.write(`El mayor es ${nombre3}`)
 
 }
+
+//Numero aleatorios
+
+// const aleatorios = Math.random()*99
+// const redondeo = Math.round(aleatorios)
+
+let num = Math.floor((Math.random()*99)+1)
+
+document.write(num)
