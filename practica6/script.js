@@ -10,5 +10,5 @@ function palindromo(cadena){
 }
 
 
-const comprobar = palindromo("ca lu ul ac")
+const comprobar = palindromo("la ruta nos aporto otro paso natural")
 console.log(comprobar)
